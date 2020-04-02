@@ -2,6 +2,6 @@ node_modules/
 
 src/database/db.sqlite
 
-package.json
+package-lock.json
 
 
